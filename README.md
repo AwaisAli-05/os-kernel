@@ -124,4 +124,4 @@ This is an educational project built to understand OS internals from the ground 
 
 **Muhammad Awais** · Cybersecurity Student · Pakistan
 ISC2 CC Candidate · Open to Work Worldwide
-[LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/AwaisAli-05)
+[LinkedIn](https://www.linkedin.com/in/muhammad-awais-a48259328/) · [GitHub](https://github.com/AwaisAli-05)
